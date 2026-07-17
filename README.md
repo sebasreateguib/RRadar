@@ -6,6 +6,12 @@ El núcleo del proyecto es la comparación de rendimiento en las búsquedas espa
 
 Este proyecto sirve como aplicación práctica y final para el curso de Algoritmos y Estructuras de Datos.
 
+## Demo
+
+<video src="https://github.com/user-attachments/assets/934b8d1b-ae6f-48f6-977b-edfc6957546f" controls width="100%">
+  Tu navegador no soporta el formato de video.
+</video>
+
 ## 🚀 Características Principales
 
 *   **Implementación de R-Tree Personalizado:** Un backend robusto construido en C++ que implementa desde cero un árbol R-Tree para indexar coordenadas de manera eficiente (R-Tree soporta *Range queries* y consultas *K-Nearest Neighbors - KNN*).
