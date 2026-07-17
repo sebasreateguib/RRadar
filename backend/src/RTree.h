@@ -10,7 +10,7 @@
 #include <vector>
 
 struct SpatialObject {
-  int id;
+  long long id;
   std::string name;
   double x, y; // x = latitud, y = longitud
   std::string category;

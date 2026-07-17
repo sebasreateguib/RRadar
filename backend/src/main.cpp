@@ -94,7 +94,7 @@ static int loadData(const std::string &csvPath, RTree &rtree,
 
     try {
       SpatialObject obj;
-      obj.id = std::stoi(fields[0]);
+      obj.id = std::stoll(fields[0]);
       obj.name = fields[1];
       obj.x = std::stod(fields[2]); // lat
       obj.y = std::stod(fields[3]); // lon

@@ -1,4 +1,4 @@
-# <img src="frontend/public/radar.svg" alt="RRadar Icon" width="36" style="vertical-align: middle; margin-right: 8px;"> RRadar (Proyecto DSA 2)
+# <img src="frontend/public/radar.svg" alt="RRadar Icon" width="36" style="vertical-align: middle; margin-right: 8px;"> RRadar
 
 RRadar es una aplicación interactiva cliente-servidor diseñada para explorar de manera eficiente Puntos de Interés (POIs) geoespaciales en la ciudad de Lima. 
 
